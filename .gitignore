@@ -1,0 +1,16 @@
+# python cache files 
+__pycache__/
+
+# nltk meta data and environments
+nltk_data/
+*.zip
+*.tar.gz
+*.log
+*.csv
+
+# virtual environments 
+myenv/
+*.docx
+
+# ipynb checkpoints
+.ipynb_checkpoint/
