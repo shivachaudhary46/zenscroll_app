@@ -7,6 +7,8 @@ nltk_data/
 *.tar.gz
 *.log
 *.csv
+*.txt
+globe.6B/
 
 # virtual environments 
 myenv/
