@@ -8,6 +8,7 @@ nltk_data/
 *.log
 *.csv
 *.txt
+*.gitignore
 globe.6B/
 
 # virtual environments 
